@@ -68,6 +68,7 @@ O servidor estará disponível em `http://localhost:3333`.
 ### Upload de imagens
 
 Para criar/editar artigos com banner, envie `multipart/form-data` com o campo `banner`.
+
 Se precisar criar a pasta uploads, crie manualmente na raiz do projeto para evitar erros de upload.
 
 ---
